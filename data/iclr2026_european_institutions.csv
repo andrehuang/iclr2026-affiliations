@@ -1,83 +1,83 @@
-european_rank,global_rank,institution,papers,pct_of_iclr2026,country
-1,24,University of Oxford,104,1.94,UK
-2,31,ETH Zurich,78,1.46,Switzerland
-3,42,University of Cambridge,67,1.25,UK
-4,49,EPFL,55,1.03,Switzerland
-5,56,Technical University of Munich,49,0.91,Germany
-6,57,Google DeepMind,49,0.91,UK
-7,66,UCL,40,0.75,UK
-8,75,Imperial College London,36,0.67,UK
-9,97,University of Edinburgh,26,0.49,UK
-10,109,CNRS,24,0.45,France
-11,113,Inria,24,0.45,France
-12,115,Max Planck Institutes,23,0.43,Germany
-13,118,CISPA,21,0.39,Germany
-14,121,Sapienza / U. Pisa,21,0.39,Italy
-15,122,University of Amsterdam,21,0.39,Netherlands
-16,126,LMU Munich,19,0.35,Germany
-17,139,Aalto University,17,0.32,Finland
-18,155,IST Austria,14,0.26,Austria
-19,158,Saarland University,14,0.26,Germany
-20,174,TU Delft,13,0.24,Netherlands
-21,179,KTH Royal Institute of Technology,12,0.22,Sweden
-22,183,École Polytechnique,12,0.22,France
-23,184,University of Manchester,12,0.22,UK
-24,185,ELLIS Institute Tübingen,12,0.22,Germany
-25,189,University of Trento,12,0.22,Italy
-26,191,University of Surrey,11,0.21,UK
-27,195,Bosch,11,0.21,Germany
-28,196,University of Tübingen,11,0.21,Germany
-29,202,Innopolis University,10,0.19,Russia
-30,208,JKU Linz,10,0.19,Austria
-31,211,University of Copenhagen,10,0.19,Denmark
-32,213,University of Zurich,9,0.17,Switzerland
-33,216,Technical University of Denmark,9,0.17,Denmark
-34,217,Italian Institute of Technology,9,0.17,Italy
-35,220,TU Eindhoven,9,0.17,Netherlands
-36,223,Lomonosov MSU,8,0.15,Russia
-37,225,Fraunhofer,8,0.15,Germany
-38,231,KU Leuven,8,0.15,Belgium
-39,232,University of Bristol,8,0.15,UK
-40,234,Queen Mary University of London,8,0.15,UK
-41,236,Moscow Indep. Research Institute of AI,8,0.15,Russia
-42,245,KIT,7,0.13,Germany
-43,251,TU Berlin,7,0.13,Germany
-44,253,University of Helsinki,7,0.13,Finland
-45,261,TU Wien,7,0.13,Austria
-46,263,Yandex,7,0.13,Russia
-47,270,Heidelberg University,6,0.11,Germany
-48,274,University of Basel,6,0.11,Switzerland
-49,278,University of Bath,6,0.11,UK
-50,283,University of Oslo,6,0.11,Norway
-51,288,DFKI,6,0.11,Germany
-52,297,Télécom Paris,5,0.09,France
-53,300,MPI for Software Systems,5,0.09,Germany
-54,302,Bocconi University,5,0.09,Italy
-55,305,University of Birmingham,5,0.09,UK
-56,307,University of Bonn,5,0.09,Germany
-57,309,Politecnico di Milano,5,0.09,Italy
-58,325,Aithyra,4,0.07,Austria
-59,326,University of Sheffield,4,0.07,UK
-60,328,University of Warwick,4,0.07,UK
-61,336,Czech Technical University Prague,4,0.07,Czechia
-62,337,University of Southampton,4,0.07,UK
-63,339,University of Exeter,4,0.07,UK
-64,347,Institute of Numerical Mathematics,4,0.07,Russia
-65,349,University of Modena and Reggio Emilia,4,0.07,Italy
-66,351,Lancaster University,4,0.07,UK
-67,354,Hasso Plattner Institute,4,0.07,Germany
-68,368,TU Darmstadt,3,0.06,Germany
-69,374,U. of Technology Nuremberg,3,0.06,Germany
-70,395,Vrije Universiteit Brussel,3,0.06,Belgium
-71,413,University of Glasgow,3,0.06,UK
-72,416,University of Liverpool,3,0.06,UK
-73,419,Sorbonne Université,2,0.04,France
-74,462,DKFZ Heidelberg,2,0.04,Germany
-75,550,ENSAE Paris,2,0.04,France
-76,570,HSE Moscow,2,0.04,Russia
-77,596,TU Dortmund,2,0.04,Germany
-78,617,Université Gustave Eiffel,1,0.02,France
-79,618,Sciences Po / Sorbonne-Nouvelle,1,0.02,France
-80,1371,Instituto Superior Técnico,1,0.02,Portugal
-81,1407,Spotify,1,0.02,Sweden
-82,1687,Universitat Pompeu Fabra,1,0.02,Spain
+european_rank,global_rank,institution,papers,country,eu_member
+1,24,University of Oxford,104,UK,False
+2,31,ETH Zurich,78,Switzerland,False
+3,42,University of Cambridge,67,UK,False
+4,49,EPFL,55,Switzerland,False
+5,56,Technical University of Munich,49,Germany,True
+6,57,Google DeepMind,49,UK,False
+7,66,UCL,40,UK,False
+8,75,Imperial College London,36,UK,False
+9,97,University of Edinburgh,26,UK,False
+10,109,CNRS,24,France,True
+11,113,Inria,24,France,True
+12,115,Max Planck Institutes,23,Germany,True
+13,118,CISPA,21,Germany,True
+14,121,Sapienza / U. Pisa,21,Italy,True
+15,122,University of Amsterdam,21,Netherlands,True
+16,126,LMU Munich,19,Germany,True
+17,139,Aalto University,17,Finland,True
+18,155,IST Austria,14,Austria,True
+19,158,Saarland University,14,Germany,True
+20,174,TU Delft,13,Netherlands,True
+21,179,KTH Royal Institute of Technology,12,Sweden,True
+22,183,École Polytechnique,12,France,True
+23,184,University of Manchester,12,UK,False
+24,185,ELLIS Institute Tübingen,12,Germany,True
+25,189,University of Trento,12,Italy,True
+26,191,University of Surrey,11,UK,False
+27,195,Bosch,11,Germany,True
+28,196,University of Tübingen,11,Germany,True
+29,202,Innopolis University,10,Russia,False
+30,208,JKU Linz,10,Austria,True
+31,211,University of Copenhagen,10,Denmark,True
+32,213,University of Zurich,9,Switzerland,False
+33,216,Technical University of Denmark,9,Denmark,True
+34,217,Italian Institute of Technology,9,Italy,True
+35,220,TU Eindhoven,9,Netherlands,True
+36,223,Lomonosov MSU,8,Russia,False
+37,225,Fraunhofer,8,Germany,True
+38,231,KU Leuven,8,Belgium,True
+39,232,University of Bristol,8,UK,False
+40,234,Queen Mary University of London,8,UK,False
+41,236,Moscow Indep. Research Institute of AI,8,Russia,False
+42,245,KIT,7,Germany,True
+43,251,TU Berlin,7,Germany,True
+44,253,University of Helsinki,7,Finland,True
+45,261,TU Wien,7,Austria,True
+46,263,Yandex,7,Russia,False
+47,270,Heidelberg University,6,Germany,True
+48,274,University of Basel,6,Switzerland,False
+49,278,University of Bath,6,UK,False
+50,283,University of Oslo,6,Norway,False
+51,288,DFKI,6,Germany,True
+52,297,Télécom Paris,5,France,True
+53,300,MPI for Software Systems,5,Germany,True
+54,302,Bocconi University,5,Italy,True
+55,305,University of Birmingham,5,UK,False
+56,307,University of Bonn,5,Germany,True
+57,309,Politecnico di Milano,5,Italy,True
+58,325,Aithyra,4,Austria,True
+59,326,University of Sheffield,4,UK,False
+60,328,University of Warwick,4,UK,False
+61,336,Czech Technical University Prague,4,Czechia,True
+62,337,University of Southampton,4,UK,False
+63,339,University of Exeter,4,UK,False
+64,347,Institute of Numerical Mathematics,4,Russia,False
+65,349,University of Modena and Reggio Emilia,4,Italy,True
+66,351,Lancaster University,4,UK,False
+67,354,Hasso Plattner Institute,4,Germany,True
+68,368,TU Darmstadt,3,Germany,True
+69,374,U. of Technology Nuremberg,3,Germany,True
+70,395,Vrije Universiteit Brussel,3,Belgium,True
+71,413,University of Glasgow,3,UK,False
+72,416,University of Liverpool,3,UK,False
+73,419,Sorbonne Université,2,France,True
+74,462,DKFZ Heidelberg,2,Germany,True
+75,550,ENSAE Paris,2,France,True
+76,570,HSE Moscow,2,Russia,False
+77,596,TU Dortmund,2,Germany,True
+78,617,Université Gustave Eiffel,1,France,True
+79,618,Sciences Po / Sorbonne-Nouvelle,1,France,True
+80,1371,Instituto Superior Técnico,1,Portugal,True
+81,1407,Spotify,1,Sweden,True
+82,1687,Universitat Pompeu Fabra,1,Spain,True
